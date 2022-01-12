@@ -1,4 +1,4 @@
-![Banner](https://github.com/CeliaSagas/EV-Queue/blob/1c39bc96dd561033cb5c162b8bdbf11fb56555bb/img/EV%20Queue.jpg)
+![Banner](https://github.com/CeliaSagas/Amazon-Sentiment/blob/e8a23037f2b215e567f15116bf0b3570d559d59e/img/Review_Sentiment_Analysis_Header.jpeg)
 
 # Amazon Review Sentiment Analysis
 
